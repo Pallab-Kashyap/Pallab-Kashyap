@@ -14,9 +14,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next%20Js-black?style=for-the-badge&logo=next.js&logoColor=white)<br/>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ## APIs
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -40,5 +37,5 @@
 
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankityadav1121)
-[![Twitter](https://img.shields.io/badge/twitter-%2300ac.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ydvtwts)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pallab-kashyap-7766b1211)
+[![Twitter](https://img.shields.io/badge/twitter-%2300ac.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/pallab_kshyp)
